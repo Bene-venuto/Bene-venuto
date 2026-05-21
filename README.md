@@ -12,5 +12,4 @@ Eu sou Gabriel Benevenuto, sou um Progamador Front End, atualmente estou aprende
   - <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-logo" />
   - <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-logo" />
 
-  [![Bene-venuto Stats](https://github-readme-stats.vercel.app/api?username=Bene-venuto)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bene-venuto)](https://github.com/anuraghazra/github-readme-stats)
+ 
