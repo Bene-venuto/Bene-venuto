@@ -1,36 +1,42 @@
 ## 👋 Hello, I'm Gabriel Benevenuto
 
-🚀 Front-End & Back-End Developer  
-🎨 Passionate about UI/UX Design  
-💻 Building modern and responsive web applications  
-📚 Always learning new technologies  
+💻 Junior Full Stack Developer  
+🚀 Passionate about technology and programming  
+📚 Currently learning Front-End & Back-End development  
+🎯 Focused on improving my skills every day
 
 ---
 
-## 🚀 Technologies & Tools
+# 🚀 Technologies I'm Learning
 
-### Front-End
+## Front-End
 - HTML5
 - CSS3
 - JavaScript
-- React.js
-- Tailwind CSS
 - Responsive Design
 
-### Back-End
+## Back-End
 - Node.js
 - Express.js
 - APIs REST
-- MySQL
-- MongoDB
 
-### Tools
+## Tools
 - Git & GitHub
 - VSCode
 - Figma
-- Vercel
 
 ---
+
+# 📌 Current Goals
+
+- Improve my JavaScript skills
+- Build complete responsive projects
+- Learn React.js
+- Create Full Stack applications
+- Contribute to open source projects
+
+---
+
 
 ## 📈 GitHub Stats
 
@@ -46,7 +52,9 @@
 
 ## 🌎 Connect with me
 
-<a href="https://www.instagram.com/bene_biel/>
+<a href="https://www.instagram.com/bene_biel/">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+</a>
 <a href="www.linkedin.com/in/gabriel-benevenuto-75780a181">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+</a>
