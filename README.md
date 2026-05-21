@@ -48,13 +48,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bene-venuto&layout=compact&theme=tokyonight)
 
----
-
-## 🌎 Connect with me
-
-<a href="https://www.instagram.com/bene_biel/">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-</a>
-<a href="www.linkedin.com/in/gabriel-benevenuto-75780a181">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-</a>
